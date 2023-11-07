@@ -1,0 +1,43 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+div {
+  display: block;
+}
+.banner h1 {
+  color: white;
+}
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+.btn-primary {
+  display: inline-block;
+  background-color: rgb(205, 84, 84);
+  padding: 30px 36px;
+  border-radius: 50px;
+  color: white;
+}
+.text-center {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #d3a2a2;
+}
+.fab {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+.footer p {
+  color: #8ddcdc;
+}
